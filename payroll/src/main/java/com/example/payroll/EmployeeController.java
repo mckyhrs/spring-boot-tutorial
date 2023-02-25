@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.*;
 
 @RestController
-public class EmployeeController {
+class EmployeeController {
 
     private final EmployeeRepository repository;
 
