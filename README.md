@@ -1,2 +1,1 @@
-Spring Boot ガイドのチュートリアル
-https://spring.pleiades.io/guides
+[Spring Bootガイド チュートリアル](https://spring.pleiades.io/guides)
