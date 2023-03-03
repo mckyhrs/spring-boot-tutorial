@@ -1,0 +1,1 @@
+[HATEOAS で REST API の構築](https://spring.pleiades.io/guides/tutorials/rest/)
